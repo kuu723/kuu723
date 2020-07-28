@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**kuu723/kuu723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+김선민 Kim Seonmin / kuu
+-
+**iOS Developer : swift**  
+- Mail: <developer.kuu@gmail.com>  
+- github: https://github.com/kuu723  
+- blog: https://medium.com/@developer.kuu
+ <br /> <br />
+ 
+경력
+-
+### 하이퍼커넥트
+* 2019.03 ~ NOW
