@@ -5,8 +5,3 @@
 - github: https://github.com/kuu723  
 - blog: https://medium.com/@developer.kuu
  <br /> <br />
- 
-경력
--
-### 하이퍼커넥트
-* 2019.03 ~ NOW
